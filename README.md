@@ -103,10 +103,10 @@ Karena itu, saya suka mengubah analisis kompleks menjadi dashboard, tools, atau 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@kamu.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portofolio-kamu.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilhamnuur)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilham.nur@bps.go.id)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ilhamnuuur)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ilham.ngumpak.my.id)
 
 </div>
 
@@ -118,6 +118,6 @@ Karena itu, saya suka mengubah analisis kompleks menjadi dashboard, tools, atau 
 
 ⭐️ *Jangan ragu untuk mampir ke repo saya dan beri bintang kalau bermanfaat!* ⭐️
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=USERNAME.USERNAME)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ilhamnuur.ilhamnuur)
 
 </div>
